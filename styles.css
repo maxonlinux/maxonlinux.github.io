@@ -102,6 +102,7 @@ hr {
 }
 
 .showroom {
+	margin: 0 -20;
 	background-color: #212121;
 	padding: 10% 0;
 	min-height: auto;
