@@ -1,3 +1,3 @@
 # maxonlinux.github.io
 Site
-<p><a href>maxonlinux.github.io</a></p>
+<p><a href>https://maxonlinux.github.io/</a></p>
